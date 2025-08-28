@@ -43,7 +43,7 @@ A modern, responsive website built with Next.js and Tailwind CSS for ShuraaTax -
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/shuraatax-website.git
+git clone https://github.com/gankit1/ShuraaTaxWebsite.git
 
 # Navigate to project directory
 cd shuraatax-website
