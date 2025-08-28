@@ -4,7 +4,7 @@ A modern, responsive website built with Next.js and Tailwind CSS for ShuraaTax -
 
 ## 🚀 Live Demo
 
-[View Live Site](https://shuraatax-website.vercel.app)
+[View Live Site](https://shuraa-tax-website.vercel.app)
 
 ## 🛠️ Tech Stack
 
